@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BoxBreathingDemo</string>
+    <string name="start">Start</string>
+    <string name="level">Level</string>
+    <string name="progress">Progress</string>
+    <string name="take_breath">Take Breath</string>
+    <string name="hold">Hold</string>
+    <string name="release">Release</string>
+    <string name="_1">1</string>
+    <string name="stop">Stop</string>
+</resources>
